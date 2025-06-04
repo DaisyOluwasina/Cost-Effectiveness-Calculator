@@ -46,3 +46,9 @@ The app calculates the **Incremental Cost-Effectiveness Ratio (ICER)** and plots
    ```bash
    git clone https://github.com/DaisyOluwasina/Cost-Effectiveness-App.git
    cd Cost-Effectiveness-App
+2.Install required packages in R:
+install.packages(c("shiny", "ggplot2", "scales"))
+
+3.Run the app:
+
+Shiny::runApp("app.R")
