@@ -26,7 +26,7 @@ The app calculates the **Incremental Cost-Effectiveness Ratio (ICER)** and plots
 ## 📸 Demo
 
 ![App Screenshot](demo_screenshot.png)  
-*(You can add a screenshot or a GIF demo here if deployed online)*
+*Coming Soon*
 
 ---
 
